@@ -3,7 +3,7 @@ import layout from "../components/layout";
 export default function Home() {
   return (
     <div>
-      <layout page="Crypto watch - Acceuil">
+      <layout page="Crypto watch - Accueil">
         <h1>Mon app avec Next.js</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium
